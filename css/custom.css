@@ -1,0 +1,6 @@
+.social-links a{ 
+   color: white;
+}
+.social-links :hover{
+    color:red;
+}
