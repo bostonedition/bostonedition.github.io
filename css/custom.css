@@ -4,3 +4,13 @@
 .social-links :hover{
     color:red;
 }
+.social-links{
+    color: white;
+}
+.navbarContent{
+    text-align: center;
+}
+@media screen and (max-width: 576px) and (min-width: 0px) {
+  .desktop-only {
+    display: none;
+}
